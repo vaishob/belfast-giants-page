@@ -48,7 +48,7 @@ To run this project locally, follow these steps:
 
 ## Contributors
 
-- John Smith <john@example.com>
+- Vaishob <@vaishob>
 
 ## License
 
