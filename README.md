@@ -48,7 +48,8 @@ To run this project locally, follow these steps:
 
 ## Contributors
 
-- Vaishob <@vaishob>
+- Vaishob <anand.vaishob@gmail.com> 
+- [@vaishob](https://github.com/vaishob/belfast-giants-page/commits?author=vaishob "@vaishob")
 
 ## License
 
